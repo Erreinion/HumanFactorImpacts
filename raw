@@ -1,0 +1,134 @@
+
+Mar 2018
+http://images.mktgassets.symantec.com/Web/Symantec/%7B3a70beb8-c55d-4516-98ed-1d0818a42661%7D_ISTR23_Main-FINAL-APR10.pdf?aid=elq_
+"Spear phishing is the number one infection vector employed by 71 percent of the 140 organized groups in 2017"
+"only 27 percent of the 140 targeted attack groups that Symantec tracks have been known to
+use zero-day vulnerabilities at any point in the past."
+
+
+Mar 2013
+https://www.networkworld.com/article/2164139/how-to-blunt-spear-phishing-attacks.html
+95% of all attacks on enterprise networks are the result of successful spear phishing
+
+
+NSA Sep 2016:
+https://www.fedscoop.com/nsa-no-zero-days-were-used-in-any-high-profile-breaches-over-last-24-months/
+
+June 2019
+https://gdpr.report/news/2019/06/10/ncsc-ceo-cyber-security/
+“What we have learned from analysing 1,600 national level incidents is that these attackers are often relatively simple, using low-level techniques and well-known malware that exploits weaknesses in out of date software.
+
+“Typically, these attacks are not particularly advanced, persistent or threatening, so what we have learned is that the biggest threat to cyber security is weak cyber security and that is what needs the most attention” Mr. Martin said.
+
+
+
+Jan 2019:
+https://securityintelligence.com/your-security-strategy-is-only-as-strong-as-your-cyber-hygiene/
+https://www.internetsociety.org/resources/ota/2019/2018-cyber-incident-breach-trends-report/
+
+July 2019
+https://www.internetsociety.org/wp-content/uploads/2019/07/OTA-Incident-Breach-Trends-Report_2019.pdf
+"95 percent of reported incidents could have been avoided with basic cyber hygiene best practices, a figure that remains largely unchanged in the past decade"
+The remaining was DDoS
+
+Sep 2018
+https://www.infosecurity-magazine.com/news/ico-breach-reports-jump-75-human/
+"human error accounted for the vast majority (88%) of incidents reported to the Information Commissioner’s Office (ICO) over the past year: 2124 reports versus just 292 cases that were down to deliberate cyber-attacks." 
+
+May 2019
+https://www.kaspersky.com/blog/understanding-security-of-the-cloud/
+"Around nine-in-ten SMBs (88%) and enterprises (91%) that have experienced a data breach affecting the public cloud infrastructure they use, said social engineering was part of the attack."
+
+Radar metadata from 2016 and 2017:
+https://iapp.org/news/a/data-indicates-human-error-prevailing-cause-of-breaches-incidents/
+"Ninety-two percent of all incidents are, and 84 percent of all data breaches were unintentional or inadvertent in nature."
+
+
+
+2018
+IBM/Ponemon Cost of Data Breach Report
+https://www.ibm.com/downloads/cas/861MNWN2
+
+
+Mar 2017
+https://chiefexecutive.net/almost-90-cyber-attacks-caused-human-error-behavior/
+Cyber Insurance claims
+"Employee negligence or malicious acts accounted for two-thirds of cyber breaches, according to historical claim data analyzed by London-based consultancy Willis Towers Watson. Just 18% were directly driven by an external threat, and extortion accounted for a measly 2%."
+
+"Overall, the research found that about 90% of all cyber claims stemmed from some type of human error or behavior."
+
+Apr 2018
+https://www.itjungle.com/2018/04/11/human-error-driving-data-breaches-studies-find/
+X-Force Threat Intelligence Index 2019
+https://www.securindex.com/downloads/8b9f94c46a70c60b229b04609c07acff.pdf
+
+"Misconfigured cloud storage servers, databases, network, and backup gear accounted for 70 percent of all lost data, IBM says in its report."
+“inadvertent insiders” — or employees who unwittingly cause security incidents through negligent actions – accounted for two-thirds of all the records that were comprised in 2017."
+"IBM says the other one-third of breached data can be traced back to phishing attacks." 
+
+
+Verizon DBIR 2013
+http://www.eventtracker.com/eventtracker/media/eventtracker/files/collateral/verizon-data-breach-2013.pdf
+75% attacks are opportunistic : which means they are trolling for mistakes
+78% of the techniques we saw were in the ‘low’ or ‘very low’ [sophistication] categories
+
+
+
+Sep 2014
+https://securityintelligence.com/the-role-of-human-error-in-successful-security-attacks/
+"95 percent of all security incidents involve human error. "
+
+
+https://www.cpapracticeadvisor.com/firm-management/news/12427308/the-top-cyber-risks-to-accounting-firms-come-from-inside-the-firm
+"Incidents involving negligent or careless employees or contractors are increasing, and are still considered the biggest threat to accounting firm data security"
+"Incidents involving employee action or error comprised nearly 100 percent of those incidents. “In other words, nearly all were preventable,” Thompson says."
+
+
+Mar 2018
+https://csrc.nist.gov/CSRC/media/Events/Federal-Information-Systems-Security-Educators-As/documents/17.pdf
+90% of cyber incidents are human-enabled 
+
+
+
+Example of poor definition:
+http://theconversation.com/hackers-cause-most-data-breaches-but-accidents-by-normal-people-arent-far-behind-99684
+"Three main reasons were cited for data breaches in the last quarter: malicious or criminal attacks (59%), human error (36%), and system fault (5%)."
+"Most notifications were the direct result of cyber incidents, including phishing, malware, ransomware, brute-force attacks, compromised or stolen credentials, and hacking."
+"Human error is often regarded as the main cause of cyber security incidents. But it was only the second most common cause of data breaches during the last quarter."
+
+
+
+Survey:
+May 2019
+https://www.continuitycentral.com/index.php/news/technology/4022-almost-two-thirds-of-data-breaches-are-a-direct-result-of-human-error
+survey
+
+https://businessinsights.bitdefender.com/human-error-identified-as-the-1-reason-behind-most-cyberattacks
+The human factor (70% cited "lack of competent in-house staff")
+
+Aug 2017
+https://securityintelligence.com/news/insider-threats-account-for-nearly-75-percent-of-security-breach-incidents/
+"Not all insider threats are deliberate. In a survey of its attendees, organizers of the annual Black Hat security conference showed that 84 percent of cyberattacks reported had been due to human error, Computer Weekly reported. This could include failing to apply a patch, using easy-to-guess passwords or leaving physical devices in an unsafe area."
+
+https://www.computerweekly.com/news/450425184/Security-professionals-name-top-causes-of-breaches
+"The survey revealed 84% of respondents whose company has suffered a cyber attack attribute it, at least in part, to human error."
+
+
+Opinion Piece:
+Nuix "The Human Vulnerability" 
+"One of the key findings of my research is that technology is rarely the cause of data
+breaches – in the more than 2,500 breaches I have investigated, I can count exactly
+zero that were caused by a random, non-human-initiated system failure"
+
+Jordan Schroeder
+Every breach report in the media seems to indicate some human factor as a root cause.
+
+
+
+Individual stats:
+https://enterprise.verizon.com/resources/reports/DBIR_2018_Report.pdf
+"93 percent of malware comes from emails"
+
+The Human Factor 2018
+https://www.proofpoint.com/sites/default/files/gtd-pfpt-us-wp-human-factor-report-2018-180425.pdf
+"Fake browser and plugin updates appeared in massive malvertising campaigns affecting millions of users. As many as 95% of observed web-based attacks like these, including those involving exploit kits, incorporated social engineering to trick users into installing malware rather than relying on exploits with short shelf lives. "
